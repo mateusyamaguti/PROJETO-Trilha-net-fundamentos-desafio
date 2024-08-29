@@ -1,6 +1,8 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+> Status do Projeto: Projeto em fase de desenvolvimento <br> O código de resolução básico do desafio foi resolvido. Porém desejo implementar alguns pontos, como: <br>1. Tratamento de placas; <br>2. Visualização persolnalizadas das placas; <br>3. Formas de pagamento e <br>4. Modelo de pagamentos diferenciado, ou seja, a partir de tantas horas, a função de pagamento é alterada. 
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
